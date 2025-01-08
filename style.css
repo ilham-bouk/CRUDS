@@ -4,8 +4,8 @@
 }
 body {
   font-family: system-ui;
-  background: #222;
-  color: #fff;
+  background: #F1F5F9;
+  /* color: #fff; */
 }
 .crud {
   width: 80%;
@@ -20,14 +20,14 @@ input {
   height: 30px;
   outline: none;
   border: none;
-  background: #111;
+  /* background: #111; */
   margin: 4px 0;
   border-radius: 4px;
   padding: 4px;
-  color: #fff;
+  /* color: #fff; */
 }
 input:focus {
-  background: #000;
+  background: #eee;
   /* transform: scale(1.1); */
 }
 .price input {
@@ -43,7 +43,7 @@ button {
   height: 30px;
   border: none;
   cursor: pointer;
-  background: #390053;
+  background: #0075ff;
   color: #fff;
   border-radius: 20px;
   transition: 0.5s;
