@@ -16,10 +16,10 @@ function getTotal() {
   if (price.value != '') {
     let result = (+price.value + +taxes.value + +ads.value) - +discount.value;
     totalSpan.innerHTML = result;
-    total.style.background = "#040";
+    total.style.background = "#607D8B";
   } else {
     totalSpan.innerHTML = '';
-    total.style.background = "#a00d02";
+    total.style.background = "#9E9E9E";
   }
 }
 
