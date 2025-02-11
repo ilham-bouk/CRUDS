@@ -2,6 +2,8 @@
 
 ## Welcome! 👋
 
+![Screenshot for CRUDS](Screenshot.png)
+
 ## Table of contents
 
 - [Overview](#overview)
